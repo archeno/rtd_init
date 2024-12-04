@@ -1,6 +1,6 @@
 # hello
 
-[![PyPI - Version](https://img.shields.io/pypi/v/hello.svg)](https://pypi.org/project/hello)
+[![PyPI - Version](https://img.shields.io/pypi/v/rtd_init.svg)](https://pypi.org/project/rtd_init)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/hello.svg)](https://pypi.org/project/hello)
 
 -----
