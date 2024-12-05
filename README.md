@@ -1,4 +1,4 @@
-# hello
+# a tool to create readthedocs.yaml and requiremntst.txt file for sphinx project 
 
 [![PyPI - Version](https://img.shields.io/pypi/v/rtd_init.svg)](https://pypi.org/project/rtd_init)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/rtd_init.svg)](https://pypi.org/project/rtd_init)
